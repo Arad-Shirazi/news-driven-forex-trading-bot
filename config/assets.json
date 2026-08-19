@@ -1,0 +1,76 @@
+{
+    "EURUSD": {
+        "type": "forex",
+        "keywords": [
+            "EUR",
+            "euro",
+            "ECB",
+            "European Central Bank",
+            "Eurozone",
+            "USD",
+            "dollar",
+            "Federal Reserve",
+            "Fed",
+            "FOMC"
+        ]
+    },
+    "GBPUSD": {
+        "type": "forex",
+        "keywords": [
+            "GBP",
+            "pound",
+            "sterling",
+            "Bank of England",
+            "BoE",
+            "USD",
+            "dollar",
+            "Federal Reserve",
+            "Fed",
+            "FOMC"
+        ]
+    },
+    "USDJPY": {
+        "type": "forex",
+        "keywords": [
+            "USD",
+            "dollar",
+            "Federal Reserve",
+            "Fed",
+            "FOMC",
+            "JPY",
+            "yen",
+            "Bank of Japan",
+            "BoJ"
+        ]
+    },
+    "XAUUSD": {
+        "type": "commodity",
+        "keywords": [
+            "gold",
+            "XAU",
+            "bullion",
+            "precious metals",
+            "Federal Reserve",
+            "Fed",
+            "dollar",
+            "inflation",
+            "interest rates",
+            "geopolitical"
+        ]
+    },
+    "USOIL": {
+        "type": "commodity",
+        "keywords": [
+            "oil",
+            "crude",
+            "WTI",
+            "Brent",
+            "OPEC",
+            "OPEC+",
+            "EIA",
+            "oil inventories",
+            "oil production",
+            "energy"
+        ]
+    }
+}
